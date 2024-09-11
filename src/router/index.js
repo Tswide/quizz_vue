@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import Quizz from '@/views/QuizzView.vue'
+import Quizz from '@/views/quizz.vue'
 import ResultView from '@/views/ResultView.vue'
 import NotFound from '@/views/NotFound.vue'
 import Error500 from '@/views/Error500.vue'
